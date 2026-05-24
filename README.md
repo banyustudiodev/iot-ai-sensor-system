@@ -178,6 +178,9 @@ password: kosong
 
 ## 7. Persiapan File Model AI
 
+Kode Google Colab: https://colab.research.google.com/drive/1O4S76NzWAViOwUK4Ggd08v-CmWklpuCo?usp=sharing
+Akses Model: https://drive.google.com/drive/folders/1BPFgM3Yo95k-00X2Nu8xVjUAZMccM8iH?usp=sharing
+
 Masukkan tiga file model dari Google Colab ke folder:
 
 ```text
@@ -205,6 +208,7 @@ Masuk ke folder project:
 ```bash
 cd /Applications/XAMPP/htdocs/iot-ai-sensor-system
 ```
+Catatan: sesuaikan dengan lokasi folder XAMPP kalian di Windows, /Applications/XAMPP/htdocs/iot-ai-sensor-system merupakan alamat folder di Macbook.
 
 Buat virtual environment:
 
@@ -1073,4 +1077,4 @@ IoT Sensor Simulation
 Realtime Dashboard
 ```
 
-Project ini cocok digunakan untuk praktikum Web Programming, Internet of Things, Machine Learning Deployment dasar, atau integrasi sistem berbasis API lokal.
+
