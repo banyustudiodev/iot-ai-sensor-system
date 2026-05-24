@@ -1,5 +1,7 @@
 # IoT Environmental Sensor Monitoring with PHP, MySQL, and Python AI Model
 
+<img src="tampilan.png">
+
 Project ini adalah aplikasi web sederhana untuk simulasi data sensor lingkungan berbasis **PHP**, **MySQL**, dan **Python lokal**. Aplikasi ini dapat melakukan generate data sensor secara otomatis, menyimpan data ke database, memanggil model AI dari file `.pkl`, lalu menampilkan hasil prediksi pada dashboard web.
 
 Project ini tidak menggunakan Flask. PHP memanggil script Python lokal melalui `shell_exec()` untuk membaca file model hasil Google Colab.
