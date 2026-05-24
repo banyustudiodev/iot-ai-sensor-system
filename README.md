@@ -63,6 +63,7 @@ Contoh lokasi untuk macOS:
 ```text
 /Applications/XAMPP/htdocs/iot-ai-sensor-system
 ```
+Catatan: sesuaikan dengan lokasi folder XAMPP kalian di Windows, /Applications/XAMPP/htdocs/iot-ai-sensor-system merupakan alamat folder di Macbook.
 
 Struktur folder:
 
