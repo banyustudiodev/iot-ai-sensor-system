@@ -1,0 +1,22 @@
+cat > .gitignore <<'EOF'
+# macOS
+.DS_Store
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Local logs
+*.log
+
+# XAMPP/local config backup
+*.bak
+
+# Optional: model files from Google Colab
+# Aktifkan jika file .pkl terlalu besar atau tidak ingin dibagikan publik
+# ai_model/*.pkl
+EOF
